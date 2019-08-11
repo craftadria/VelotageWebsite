@@ -1,0 +1,4 @@
+So you have to specify the author in your project:
+Music from https://filmmusic.io:
+"Groundwork" by Kevin MacLeod (https://incompetech.com)
+Licence: CC BY (http://creativecommons.org/licenses/by/4.0/)
